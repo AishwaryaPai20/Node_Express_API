@@ -1,15 +1,15 @@
 # Basic Routes in this API
 
 
-- [x] GET /users find all users
+- [x] `GET` `/users` finds all users
 
-- [x] POST /users creates a user
+- [x] `POST` `/users` creates a user
 
-- [x] GET /users/:id finds user details
+- [x] `GET` `/users/:id` finds user details
 
-- [x] DELETE /users/:id deletes a users
+- [x] `DELETE` `/users/:id` deletes a user
 
-- [x] PATCH /users/:id updates a user
+- [x] `PATCH` `/users/:id` updates a user
   
 ## Setting Up
 
